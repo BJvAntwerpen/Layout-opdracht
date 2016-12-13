@@ -1,3 +1,12 @@
 body {
 	background-color: red;
 }
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+p {
+	font: sans-serif;
+}
